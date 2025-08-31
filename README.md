@@ -4,11 +4,11 @@
 An end-to-end data pipeline implementing the medallion (bronze-silver-gold) architecture on Azure Databricks. Processes raw operational data (Customers, Orders, Products, Regions) into analytically ready datasets for business intelligence and analytics.
 
 ## Technologies Used
-- Azure Databricks
+- Databricks
 - Apache Spark
-- Delta Lake
-- Unity Catalog
 - Azure Data Lake Storage
+- Python
+- SQL
 
 ## 🏗️ Architecture
 ```mermaid
