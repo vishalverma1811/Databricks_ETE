@@ -59,5 +59,3 @@ graph TD
 - Implemented SCD Type 2 for historical data tracking
 - Achieved data quality with expectation rules
 - Automated end-to-end workflow orchestration
-
-🔗 **Explore the complete code on GitHub:** [Your GitHub Repository Link]
