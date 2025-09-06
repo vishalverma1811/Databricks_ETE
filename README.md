@@ -17,13 +17,3 @@ graph TD
         D --> F
     end
 
-🛠️ Tech Stack
-Cloud Platform: Microsoft Azure
-Data Processing: Azure Databricks, Apache Spark 3.5.0
-Data Format: Delta Lake
-Data Governance: Unity Catalog
-Storage: Azure Data Lake Storage Gen2 (ADLS Gen2)
-Orchestration: Databricks Workflows
-
-Languages: Python, SQL, PySpark
-
